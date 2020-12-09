@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Hernandez's Resume
 ---
 # Daniel Hernández
-Computer Science student at BYU-I
+Computer Science student at BYU-Idaho
 
 <div id="webaddress">
 <a href="danhergir@byui.edu">danhergir@byui.edu</a>
