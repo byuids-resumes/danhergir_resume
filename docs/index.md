@@ -6,82 +6,107 @@ title: Daniel Hernandez's Resume
 Computer Science student at BYU-I
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="danhergir@byui.edu">danhergir@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/daniel-hern%C3%A1ndez-147587182">LinkedIn</a>
+| <a href="https://github.com/danhergir">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2019`
+__Brigham Young University - Idaho__, Rexburg, ID
+BS, Software Engineering - Computer Science and Electrical Enginneering Major
 
-- Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`2020`
+__Brigham Young University - Idaho__, Rexburg, ID
+BS, Computer Science - Computer Science and Electrical Enginneering Major
+
+- 3.6 Major GPA
+
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
+## Skills
+__Advanced__     
+- PHP
+- C++
+- Laravel
+- JavaScript
+- React.js
+- Vue.js
+
+__Competent__
+- Python       
+- Pandas
+- SQL
+- Tableau
+
 
 ## Related Experience
 
-### Internships
+`December 2018 - January 2019`
+__bitlaia.com__, Web Developer
+_Workana Freelancer Client / Argentina / Full-Time Remote_
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Created platform to make investments using cryptocurrencies
+- Developed backend and frontend for the web platform using PHP/Laravel, CSS, HTML, JavaScript, jQuery
+- Integrate CoinPayments API to develop the payments system inside the platform
+- Deploy the website using a LAMP stack in cPanel.
+- Provided businness logic and designs to build the platform. 
+- Used versioning with Git and Github
 
 
-## Service and Work History
+`February 2019 - July 2019`
+__micopilot.com__, Junior Web Developer
+_Software Agency / Argentina / Full-Time Remote_
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Contributed creating most of the backend and frontend using Laravel/PHP, jQuery, JavaScript, HTML, CSS and JavaScript libraries
+- Provided support in hosting issues and domain services. 
+- Implemented PHP web application, streamlining high server traffic. Used virtualized environment with MAMP server.
+- Used versioning with Git and Github
 
+`December 2019 - February 2020`
+__Car Sellers CRM__, Web Developer
+_Workana Freelancer Client / Argentina / Full-Time Remote_
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Contributed developing and fixing issues in the backend and frontend of CRM with Laravel/PHP
+- Solved issues related with the hosting and domain. Configured server to run PHP web application
+- Integrated Ford Argentina API to connect cars and possible customers with the sellers in the CRM
 
+`August 2020 - October 2020`
+__https://revolucionhibrida.cl/__, Junior Web Developer
+_Software Agency / Chile / Mid-Time Remote_
 
+- Contributed developing VR experience for Toyota Chile.
+- Developed frontend using JavaScript, HTML, XML and CSS
+- Integrated KrPano library to develop VR experience and use it as video player
+- Contributed with designs and creativity to develop the fronted
+- Used PHP directly in the frontend to integrate the logic inside the website.
 
+`November 2020 - December 2020`
+__https://meta-bot.com/__, Web Developer
+_Workana Freelancer Client / Argentina / Mid-Time Remote_
+
+- Developed frontend and backend of the website using Laravel, PHP, HTML, CSS and JavaScript.
+- Integrated CoinPayments API for transactions with cryptocurrencies inside the web app.
+- Developed data and tables in the database using Laravel migrations
+- Configured cron jobs in the web server 
+- Deployed the web app using the LAMP stack in cPanel
+
+`June 2020 - Current`
+__shtc.cl__, Junior Web Developer
+_Software Agency / Chile / Mid-Time Remote_
+
+- Contributed developing backend with Laravel and PHP for web platform dedicated to the process of supervising freight transport companies
+- Integrated multiple PHP libraries to create Excel and PDF reports, 
+- Restructured database tables using SQL and Laravel. Managed new records and data using MySQL and PHPMyAdmin
+- Used Git and Github to maintain versions of the code.
 <!-- ### Footer
 
 Last updated: May 2013 -->
