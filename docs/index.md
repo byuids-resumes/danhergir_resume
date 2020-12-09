@@ -80,7 +80,7 @@ _Workana Freelancer Client / Argentina / Full-Time Remote_
 - Integrated Ford Argentina API to connect cars and possible customers with the sellers in the CRM
 
 `August 2020 - October 2020`
-__https://revolucionhibrida.cl/__, Junior Web Developer
+__revolucionhibrida.cl__, Junior Web Developer
 _Software Agency / Chile / Mid-Time Remote_
 
 - Contributed developing VR experience for Toyota Chile.
@@ -90,7 +90,7 @@ _Software Agency / Chile / Mid-Time Remote_
 - Used PHP directly in the frontend to integrate the logic inside the website.
 
 `November 2020 - December 2020`
-__https://meta-bot.com/__, Web Developer
+__meta-bot.com__, Web Developer
 _Workana Freelancer Client / Argentina / Mid-Time Remote_
 
 - Developed frontend and backend of the website using Laravel, PHP, HTML, CSS and JavaScript.
